@@ -1,0 +1,26 @@
+Sources: title, author, source, license
+swordhit: "Knife/sword stab #3" by SoundsForHim, https://freesound.org/people/SoundsForHim/sounds/399616/, licensed under CC0 1.0.
+swordhit2: "Whoosh+Sword_Hit Flesh." by marb7e, https://freesound.org/people/marb7e/sounds/620354/, licensed under Attibution 4.0.
+FootstepsVarious: "Man walking at different rithms on a wood floor" by felix.blume, https://freesound.org/people/felix.blume/sounds/407037/, licensed under CC0 1.0.
+swordclang1: "08SWORD05" by lostchoclatelab, https://freesound.org/people/lostchocolatelab/sounds/1461/, licensed under CC0 1.0.
+swordwhoosh1: "Swosh Sword Swing" by quboqup, https://freesound.org/people/qubodup/sounds/59992/, licensed under CC0 1.0.
+swordflesh1: "Sword Out Of Flesh" by SoundFlakes, https://freesound.org/people/SoundFlakes/sounds/492235/, licensed under CC BY-NC 4.0
+runupstairs: "Running Up The Stairs" by RutgerMuller, https://freesound.org/people/RutgerMuller/sounds/51163/, licensed under CC0 1.0
+dooropen: "large_creaking_door" by gregwinford, https://freesound.org/people/gregswinford/sounds/70101/, licensed under CC0 1.0
+zombieMoan1: "Zombie Moan" by gnuebe, https://freesound.org/people/gneube/sounds/315845/, licensed under CC BY 3.0
+zombieMoan2: "Burp Monster Zombie groan moan" by EricsSoundschmiede, https://freesound.org/people/EricsSoundschmiede/sounds/463721/ licensed under CC0 1.0
+zombieBreath1: "Zombie Breathing" by Huminaatio, https://freesound.org/people/Huminaatio/sounds/189281/, licensed under CC0 1.0
+zombieBreath2: "Zombie Breathing" by Diramus, https://freesound.org/people/Diramus/sounds/426409/, licensed under CC0 1.0
+bowLoading1: "Bow Loading" by EminYILDIRIM, https://freesound.org/people/EminYILDIRIM/sounds/536067/, licensed under CC0 1.0
+bowRelease1: "Bow Release" by Samulis, https://freesound.org/people/Samulis/sounds/209399/, licensed under CC BY 3.0
+bowHit1: "ArrowHit02" by Yap_Audio_Production, https://freesound.org/people/Yap_Audio_Production/sounds/218463/, licensed under CC BY 3.0
+bowLoadShoot1: "Regular Arrow Shot" by brendan89, https://freesound.org/people/brendan89/sounds/321552/, licensed under CC BY 3.0
+ominousLow1: "Chime" by the_odds, https://freesound.org/people/the_odds/sounds/218729/, licensed under CC0 1.0.
+backMagic1: "Fairy_sound" by AdriMB86, https://freesound.org/people/AdriMB86/sounds/410259/, licensed under CC0 1.0
+dissonantWhispers1: "Discordant chord" by Akrythael, https://freesound.org/people/Akrythael/sounds/334918/, licensed under CC BY 3.0
+zombieScream1: "remix of 141109__toiletrolltube__003-c-001-me-2006-06-07" by Timbre, https://freesound.org/people/Timbre/sounds/141172/, licensed under CC BY-NC 4.0
+zombieScream2: "Mutant Scream" by scorpion67890, https://freesound.org/people/scorpion67890/sounds/396797/, licensed under CC0 1.0.
+heartBeat1: "Heart beat 2.Calm rhythm.Blood Flows In The veins(6lrs)" by newlocknew, https://freesound.org/people/newlocknew/sounds/612642/, licensed under CC BY-NC 4.0
+armor1: "Lightmetal_armor" by mitchanary, https://freesound.org/people/mitchanary/sounds/506148/, licensed under CC0 1.0.
+bowHit2: "Arrow Impact 3" by Ali_6868, https://freesound.org/people/Ali_6868/sounds/384912/, licensed under CC0 1.0.
+wind1: "Soft Wind", by florianreichelt, https://freesound.org/people/florianreichelt/sounds/459977/, licensed under CC0 1.0
