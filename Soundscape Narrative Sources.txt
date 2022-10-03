@@ -24,3 +24,27 @@ heartBeat1: "Heart beat 2.Calm rhythm.Blood Flows In The veins(6lrs)" by newlock
 armor1: "Lightmetal_armor" by mitchanary, https://freesound.org/people/mitchanary/sounds/506148/, licensed under CC0 1.0.
 bowHit2: "Arrow Impact 3" by Ali_6868, https://freesound.org/people/Ali_6868/sounds/384912/, licensed under CC0 1.0.
 wind1: "Soft Wind", by florianreichelt, https://freesound.org/people/florianreichelt/sounds/459977/, licensed under CC0 1.0
+thud1: "Heavy Impacts" by RICHERlandTV, https://freesound.org/people/RICHERlandTV/sounds/232358/, licensed under CC BY 3.0
+gnollBreath1: "Ominous breathe" by draperz, https://freesound.org/people/draperz/sounds/221800/, licensed under CC BY 1.0
+gnollRoar1: "Cthulhu growl" by cylon8472, https://freesound.org/people/cylon8472/sounds/249686/, licensed under CC BY 4.0
+gnollBite1: "monster bite" by LucasDuff, https://freesound.org/people/LucasDuff/sounds/467701/, licensed under CC BY 1.0
+gnollBite2: "Monster Bite on Armor WAV" by OGsoundFX, https://freesound.org/people/OGsoundFX/sounds/423010/, licensed under CC BY 4.0
+horrorBuild1: "reverse_clang2.wav" by BristolStories, https://freesound.org/people/BristolStories/sounds/65915/, licensed under CC BY-NC 3.0
+gnollBite3: "Gore Rend" by magnuswaker, https://freesound.org/people/magnuswaker/sounds/563491/, licensed under CC BY 1.0
+arrowBreak1: "Something breaking.m4a" by TheScarlettWitch89, https://freesound.org/people/TheScarlettWitch89/sounds/415537/, licensed under CC BY 3.0
+footstepsLimp1: "FX_Footsteps_Limping_01.WAV" by PeteBarry, https://freesound.org/people/PeteBarry/sounds/647397/, licensed under CC BY 4.0
+footsteps1: "Footsteps, Concrete, A.wav" by InspectorJ, https://freesound.org/people/InspectorJ/sounds/336598/, licensed under CC BY 4.0
+footstepsRun1: "running hard surface.wav" by bevangoldswain, https://freesound.org/people/bevangoldswain/sounds/54779/, licensed under Sampling Plus 1.0
+arrowBreak2: "branch breaking forest twig snap crunch.wav" by kyles, https://freesound.org/people/kyles/sounds/452570/, licensed under CC BY 1.0
+explode1: "explosion_03.wav" by derplayer, https://freesound.org/people/derplayer/sounds/587183/, licensed under CC BY 1.0
+fire1: "Foley_Object_FlameThrower_Loop_Stereo.wav" by Nox_Sound, https://freesound.org/people/Nox_Sound/sounds/563138/, licensed under CC BY 1.0
+poof1: "poof.wav" by Worldmaxter, https://freesound.org/people/Worldmaxter/sounds/471204/, licensed under CC BY 1.0
+poof2: "Whoosh Puff" by Speedenza, https://freesound.org/people/Speedenza/sounds/167929/, licensed under CC BY-NC 4.0
+poof3: "Smoke Poof" by sushiman2000, https://freesound.org/people/sushiman2000/sounds/643876/, licensed under CC BY 1.0
+footstepsGnoll1: "Dinosaur Footsteps-01.wav" by jamesrodavidson, https://freesound.org/people/jamesrodavidson/sounds/192365/, licensed under CC BY 3.0
+falling1: "Wind, Synthesized, A.wav" by InspectorJ, https://freesound.org/people/InspectorJ/sounds/376415/, licensed under CC BY 4.0
+gnollBiteArmor1: "Monster Bite on Armor WAV" by OGsoundFX, https://freesound.org/people/OGsoundFX/sounds/423010/, licensed under CC BY 4.0
+boneCrack1: "bone_flesh crush/ punch" by satanicupsman, https://freesound.org/people/satanicupsman/sounds/144015/, licensed under CC BY 1.0
+ringing1: "Ringing in the Ears" by hykenfreak, https://freesound.org/people/hykenfreak/sounds/218050/, licensed under CC BY 4.0
+holy1: "Short Choir" by Breviceps, https://freesound.org/people/Breviceps/sounds/444491/, licensed under CC BY 1.0
+holy2: "Holy Protection Skill Buff" by EminYILDIRIM, https://freesound.org/people/EminYILDIRIM/sounds/621206/, licensed under CC BY 4.0
